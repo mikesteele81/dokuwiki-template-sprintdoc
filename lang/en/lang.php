@@ -102,3 +102,5 @@ $lang['__link_alt__']               = 'table head: linked - font color (alternat
 
 $lang['__border__']                 = 'tables, form fields, blockquotes - border color';
 $lang['__default_border_radius__']  = 'wiki icons, content (top right) - border radius';
+
+$lang['__background_default_value__']  = 'default values in configuration manager';
