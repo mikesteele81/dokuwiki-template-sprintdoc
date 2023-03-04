@@ -104,3 +104,5 @@ $lang['__border__']                 = 'tables, form fields, blockquotes - border
 $lang['__default_border_radius__']  = 'wiki icons, content (top right) - border radius';
 
 $lang['__background_default_value__']  = 'default values in configuration manager';
+$lang['__background_pre_blocks__'] = 'preformatted blocks - background color';
+$lang['__text_pre_blocks__'] = 'content: preformatted blocks - text font color';
